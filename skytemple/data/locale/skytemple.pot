@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: skytemple\n"
 "Report-Msgid-Bugs-To: https://translate.skytemple.org\n"
-"POT-Creation-Date: 2026-07-30 12:13+0000\n"
+"POT-Creation-Date: 2026-08-12 00:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3978,7 +3978,7 @@ msgstr ""
 #: skytemple/skytemple/module/misc_graphics/widget/zmappat.py:84
 #: skytemple/skytemple/module/misc_graphics/widget/zmappat.py:103
 #: skytemple/skytemple/module/portrait/widget/portrait.py:281
-#: skytemple/skytemple/module/sprite/module.py:242
+#: skytemple/skytemple/module/sprite/module.py:244
 #: skytemple/skytemple/module/sprite/widget/monster_sprite.py:173
 msgid "_Save"
 msgstr ""
@@ -13434,47 +13434,47 @@ msgstr ""
 msgid "Invalid Sprite ID."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:167
+#: skytemple/skytemple/module/sprite/module.py:169
 msgid "Import WAN sprite..."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:186
+#: skytemple/skytemple/module/sprite/module.py:188
 msgid "Export WAN sprite..."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:193
+#: skytemple/skytemple/module/sprite/module.py:195
 msgid "WAN sprite (*.wan)"
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:213
+#: skytemple/skytemple/module/sprite/module.py:215
 msgid "To import select the directory of the sprite export. If it is still zipped, unzip it first."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:219
+#: skytemple/skytemple/module/sprite/module.py:221
 msgid "Import gfxcrunch sprite..."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:234
+#: skytemple/skytemple/module/sprite/module.py:236
 msgid "Error importing the sprite."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:254
+#: skytemple/skytemple/module/sprite/module.py:256
 msgid "Error exporting the sprite."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:258
+#: skytemple/skytemple/module/sprite/module.py:260
 msgid "Import image file..."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:274
+#: skytemple/skytemple/module/sprite/module.py:276
 msgid "Error importing image to object."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:340
+#: skytemple/skytemple/module/sprite/module.py:342
 msgid "Error with sprite files: They don't have the same length. This will be corrected by adding empty sprites. You should re-import the last imported sprite."
 msgstr ""
 
-#: skytemple/skytemple/module/sprite/module.py:365
+#: skytemple/skytemple/module/sprite/module.py:367
 msgid "The sprite ID currently configured for this Pokémon is invalid. Choose the option to add a new sprite instead or correct the Pokémon's sprite ID."
 msgstr ""
 
